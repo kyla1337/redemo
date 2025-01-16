@@ -2229,7 +2229,7 @@ input, select, textarea {
 	input[type="button"],
 	button,
 	.button {
-		background-color: #e56f44;
+		background-color: #031d2d;
 		color: #ffffff !important;
 	}
 
@@ -3657,7 +3657,7 @@ input, select, textarea {
 			#wrapper > .main.accent2 input[type="button"],
 			#wrapper > .main.accent2 button,
 			#wrapper > .main.accent2 .button {
-				background-color: #e56f44;
+				background-color: #031d2d;
 				color: #ffffff !important;
 			}
 
